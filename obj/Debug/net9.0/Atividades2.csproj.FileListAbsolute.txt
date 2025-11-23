@@ -1,0 +1,14 @@
+D:\codigos da silva\atividades2desgraca\Atividades2\bin\Debug\net9.0\Atividades2.exe
+D:\codigos da silva\atividades2desgraca\Atividades2\bin\Debug\net9.0\Atividades2.deps.json
+D:\codigos da silva\atividades2desgraca\Atividades2\bin\Debug\net9.0\Atividades2.runtimeconfig.json
+D:\codigos da silva\atividades2desgraca\Atividades2\bin\Debug\net9.0\Atividades2.dll
+D:\codigos da silva\atividades2desgraca\Atividades2\bin\Debug\net9.0\Atividades2.pdb
+D:\codigos da silva\atividades2desgraca\Atividades2\obj\Debug\net9.0\Atividades2.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigos da silva\atividades2desgraca\Atividades2\obj\Debug\net9.0\Atividades2.AssemblyInfoInputs.cache
+D:\codigos da silva\atividades2desgraca\Atividades2\obj\Debug\net9.0\Atividades2.AssemblyInfo.cs
+D:\codigos da silva\atividades2desgraca\Atividades2\obj\Debug\net9.0\Atividades2.csproj.CoreCompileInputs.cache
+D:\codigos da silva\atividades2desgraca\Atividades2\obj\Debug\net9.0\Atividades2.dll
+D:\codigos da silva\atividades2desgraca\Atividades2\obj\Debug\net9.0\refint\Atividades2.dll
+D:\codigos da silva\atividades2desgraca\Atividades2\obj\Debug\net9.0\Atividades2.pdb
+D:\codigos da silva\atividades2desgraca\Atividades2\obj\Debug\net9.0\Atividades2.genruntimeconfig.cache
+D:\codigos da silva\atividades2desgraca\Atividades2\obj\Debug\net9.0\ref\Atividades2.dll
